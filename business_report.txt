@@ -1,0 +1,9 @@
+**Executive Summary**
+
+An analysis of the e-commerce database reveals significant variations across product categories in both pricing and inventory distribution:
+
+* **Highest Average Price:** The **mens-watches** category is by far the most expensive, commanding an exceptionally high average price of $8,098.32 across 6 products. 
+* **Highest Product Volume:** The **kitchen-accessories** category boasts the largest inventory with 30 products, closely followed by **groceries** with 27 products.
+
+**Actionable Recommendation:**
+Given that high-value categories like *mens-watches*, *laptops*, and *furniture* have very limited catalog sizes (5–6 products each), the business should **expand the product assortment in high-margin, high-ticket categories**. Introducing more premium options in these segments can capture additional high-end market share and maximize revenue potential without requiring a massive increase in inventory volume.
