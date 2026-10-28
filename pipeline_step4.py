@@ -3,7 +3,7 @@ import sqlite3
 import pandas as pd
 
 st.set_page_config(page_title="E-commerce Analytics", layout="wide")
-st.title("🛍️ E-commerce Market Analyzer")
+st.title("")
 st.markdown("Automated Data Pipeline: API -> SQL -> AI Report.")
 
 # 1. الاتصال بقاعدة البيانات
